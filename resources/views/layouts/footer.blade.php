@@ -44,6 +44,7 @@
 <script src="{{ asset('AdminLTE') }}/dist/js/demo.js"></script>
 <!-- AdminLTE dashboard demo (This is only for demo purposes) -->
 <script src="{{ asset('AdminLTE') }}/dist/js/pages/dashboard2.js"></script>
+<script src="https://kit.fontawesome.com/e2e77659ec.js" crossorigin="anonymous"></script>
 <script>
   $(function () {
     $("#example1").DataTable({

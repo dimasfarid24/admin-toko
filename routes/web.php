@@ -16,8 +16,11 @@ use Illuminate\Support\Facades\Route;
 Route::get('/', function () {
     return view('pages.home');
 });
-Route::get('/transaksi', function () {
-    return view('pages.transaksi');
+Route::get('/transaksipenjualan', function () {
+    return view('pages.transaksipenjualan');
+});
+Route::get('/transaksipembelian', function () {
+    return view('pages.transaksipembelian');
 });
 Route::get('/produk', function () {
     return view('pages.produk');

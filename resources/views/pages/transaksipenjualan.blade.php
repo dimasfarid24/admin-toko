@@ -33,8 +33,8 @@
                                 <th scope="col">1</th>
                                 <th scope="col">Rp. 15.000</th>
                                 <th scope="col">
-                                  <a href="" class="btn btn-sm btn-danger">Hapus</a>
-                                  <a href="" class="btn btn-sm btn-success">Edit</a>
+                                    <a href="" class="btn btn-sm btn-danger">Hapus</a>
+                                    <a href="" class="btn btn-sm btn-success">Edit</a>
                                 </th>
                             </tr>
                             <tr class="table">
